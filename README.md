@@ -1,2 +1,2 @@
 # GeekBrains_Diploma
-BigData Analyst Diploma by GeekBrains 
+The BigData Analyst Diploma by Pavel Ovchinnikov for GeekBrains (University 2035)
